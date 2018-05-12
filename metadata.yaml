@@ -1,0 +1,25 @@
+_repo: Hydesville--13-The-Story-of-the-Rochester-Knockings-Which-Proclaimed-the-Advent-of-Modern-Spi__30403
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30403-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Todd, Thomas Olman
+    gutenberg_agent_id: '34584'
+    url: http://www.gutenberg.org/2009/agents/34584
+description: ''
+gutenberg_issued: '2009-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+title: "Hydesville\r\nThe Story of the Rochester Knockings, Which Proclaimed the Advent\
+  \ of Modern Spiritualism"
+url: http://www.gutenberg.org/ebooks/30403
