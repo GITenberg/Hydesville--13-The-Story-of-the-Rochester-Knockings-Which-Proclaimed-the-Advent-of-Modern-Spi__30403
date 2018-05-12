@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34584'
     url: http://www.gutenberg.org/2009/agents/34584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30403#Hydesville--13-The-Story-of-the-Rochester-Knockings-Which-Proclaimed-the-Advent-of-Modern-Spi_
 gutenberg_issued: '2009-11-04'
 gutenberg_type: Text
 identifiers:
